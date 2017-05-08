@@ -1,5 +1,5 @@
 i = 1
 while i <= 6:
-    print (2 * i), (' '),
+    #imprimeMultiplos(i)
     i = i + 1
-print
+print (i)
